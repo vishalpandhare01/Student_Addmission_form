@@ -1,0 +1,15 @@
+.header{
+    background-color: rgb(177, 177, 208);
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+a{
+    color: white;
+}
+.carousel-item{
+    height: 500px;
+} 
+.carousel-item img{
+    height: 500px;
+}
